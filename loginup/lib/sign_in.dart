@@ -29,7 +29,7 @@ class SignInPage extends StatelessWidget {
                 mainAxisSize: MainAxisSize.min,
                 children: [
                   const Text(
-                    "Hello Again!",
+                    "Hey There!",
                     style: TextStyle(
                       fontSize: 28,
                       fontWeight: FontWeight.bold,
